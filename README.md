@@ -1,6 +1,3 @@
-# Call-Center-Trends-PWC-Task-2-
-
-
 # Call Centre Trends Analysis
 
 ## Project Overview
