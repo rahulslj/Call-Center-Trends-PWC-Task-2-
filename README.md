@@ -77,6 +77,8 @@ For any questions or feedback, please reach out to:
 - Email: rahulsljmail@gmail.com
 - LinkedIn: https://www.linkedin.com/in/im-rahul-kumar/
 
+[Call Center Trends (PWC Task 2).pdf](https://github.com/rahulslj/Call-Center-Trends-PWC-Task-2-/files/15442342/Call.Center.Trends.PWC.Task.2.pdf)
+
 ---
 
 Thank you for visiting the repository and exploring the Call Centre Trends Analysis project!
